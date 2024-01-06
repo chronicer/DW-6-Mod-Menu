@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Release\) содержит файлы, которые используются совместно с другим проектом (MGRModMenu.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  gui.cpp
+D:\MGR\DW 6 SDK\src\gui\gui.cpp(324,17): warning C4101: characters: неиспользованная локальная переменная
+  mgrCheat.vcxproj -> D:\MGR\DW 6 SDK\Release\DW 6 Mod menu.asi
